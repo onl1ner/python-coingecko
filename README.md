@@ -7,7 +7,7 @@ Python programm which retrieves `N` coins sorted by market capitalization.
 Script uses `requests` library to send HTTP requests.
 
 ```shell
-$ pip install requests
+$ pip install -r requirements.txt
 ```
 
 ## Usage
